@@ -11,3 +11,5 @@ You can start the project with the start command
 1. Install nodejs: `npm i -g node`
 2. Install npx: `npm i npx`
 3. Install dependencies: `npm install`
+
+### Edited from code spaces
